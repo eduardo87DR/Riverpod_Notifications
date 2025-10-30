@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582418697759",
+    "project_id": "demonotifications-218c3",
+    "storage_bucket": "demonotifications-218c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582418697759:android:25fc829503a0a1f1b30f2a",
+        "android_client_info": {
+          "package_name": "com.example.turismo_notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTD4Wa9Udas7Q8Fxa9jAHuwQPrJoKqw1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
